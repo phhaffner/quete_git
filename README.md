@@ -1,1 +1,1 @@
-git commit -m "blabla"
+git commit -a -m "blabla"
